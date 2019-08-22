@@ -3,7 +3,7 @@ var userTwitch = "";
 var channelTwitch = "";
 
 var options = {
-    option:{
+    option:{ 
         debug: true
     },
     connection: {
