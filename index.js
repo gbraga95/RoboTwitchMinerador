@@ -20,7 +20,10 @@ const opts = {
     'gafallen',
     'Furiatv',
     'gabepeixe',
-    'mch_AGG'
+    'mch_AGG',
+    'JASONR',
+    'waveigl',
+    'p4ndaotv'
   ]
 };
 
