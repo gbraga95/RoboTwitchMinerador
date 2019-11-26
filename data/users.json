@@ -1,33 +1,36 @@
-[{
-    "user": "botminerador",
-    "pass": "oauth:6vtdxi6lctbgszt5gczp3u24iqxx0a"
-},
+[
+// {
+//     "user": "botminerador",
+//     "pass": "oauth:6vtdxi6lctbgszt5gczp3u24iqxx0a"
+// },
 {
     "user": "mineradorgamers",
     "pass": "oauth:vapbv1lmuyq95z1o71j6xilx3qp3qs"
 },
-{
-    "user": "gamersminerador",
-    "pass": "oauth:r65zozi4ema2bpygcb2qm2un06rhbv"
-},
+// {
+//     "user": "gamersminerador",
+//     "pass": "oauth:r65zozi4ema2bpygcb2qm2un06rhbv"
+// },
 {
     "user": "brag4a",
     "pass": "oauth:a14669mf60r62ii4g8dt8fihunar3d"
-},
-{
-    "user":"mineradordasgalaxia",
-    "pass":"oauth:s888uoml710cau0lfbdji0xapk7vpz"
-},
-{
-    "user":"mineradordemarte",
-    "pass":"oauth:dhbsj71marxf3hzt53wez0pnoffhxe"
-},
-{
-    "user":"mineradordalua",
-    "pass":"oauth:le3qrt90do8dvgd8egnt45wov75ow9"
-},
-{
-    "user":"mineradordoacre",
-    "pass":"oauth:14uiz0vo5kg323ju0akmaaufpiova7"
-}]
+}
+// ,
+// {
+//     "user":"mineradordasgalaxia",
+//     "pass":"oauth:s888uoml710cau0lfbdji0xapk7vpz"
+// },
+// {
+//     "user":"mineradordemarte",
+//     "pass":"oauth:dhbsj71marxf3hzt53wez0pnoffhxe"
+// },
+// {
+//     "user":"mineradordalua",
+//     "pass":"oauth:le3qrt90do8dvgd8egnt45wov75ow9"
+// },
+// {
+//     "user":"mineradordoacre",
+//     "pass":"oauth:14uiz0vo5kg323ju0akmaaufpiova7"
+// }
+]
 
